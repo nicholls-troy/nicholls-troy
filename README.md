@@ -4,7 +4,7 @@
 
 A graduate from St. Lawrence College in Kingston, Ontario. Professional experience with the technologies listed in the **toolbox** below.
 
-I previously worked for Queen's University on a MedTech platform called Elentra. There I gained experience working with PHP and JavaScript with Laravel and Vue.js frameworks.
+I previously worked for Queen's University on a MedTech platform called Elentra and then worked for the Queen's Office of Advancement. There I gained experience working with PHP and JavaScript with Laravel and Vue.js frameworks.
 
 My career is just beginning in the tech world, I plan to keep up-to-date with the latest technologies and continue to enhance my education in this vast space.
 
